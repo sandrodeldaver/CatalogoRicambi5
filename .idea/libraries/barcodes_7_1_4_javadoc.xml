@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="barcodes-7.1.4-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/barcodes-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/forms-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/io-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/kernel-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/layout-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/pdfa-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/pdftest-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/sign-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/styled-xml-parser-7.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/svg-7.1.4.jar!/" />
+      <root url="file://$PROJECT_DIR$/../jar_files" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/barcodes-7.1.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/forms-7.1.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/io-7.1.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/pdfa-7.1.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/pdftest-7.1.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/sign-7.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/barcodes-7.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/forms-7.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/io-7.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/kernel-7.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/layout-7.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/pdfa-7.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/pdftest-7.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/sign-7.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/styled-xml-parser-7.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../itextpdf-5.1.2.jar/svg-7.1.4-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../jar_files" recursive="false" />
+  </library>
+</component>
